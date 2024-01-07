@@ -1,0 +1,25 @@
+.banner {
+    background-size: cover;
+    background-position: center;
+    height: 60vh;
+    background-image: linear-gradient(to bottom, rgba(255, 243, 68, 0.623), rgba(252, 252, 253, 0.315)), url(../img/banner.jpg);
+}
+
+.banner2 {
+    background-size: cover;
+    background-position: center;
+    height: 60vh;
+    background-image: url(../img/kantin2.jpg);
+}
+
+.logo {
+    height: 4rem;
+}
+
+.footer {
+    background-color: #90EE90;
+}
+
+.loginbtn {
+    background-color: orange;
+}
